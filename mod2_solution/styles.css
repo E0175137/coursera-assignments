@@ -13,6 +13,18 @@ h1{
 	padding:0px;
 }
 
+.bgc1{
+	background-color:  #cce6ff;
+}
+
+.bgc2{
+	background-color:  #ccccff;
+}
+
+.bgc3{
+	background-color:  #ccffcc;
+}
+
 p{
 	font-size: 125%;
 	position:absolute;
