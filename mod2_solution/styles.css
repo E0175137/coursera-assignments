@@ -30,6 +30,7 @@ p{
 	position:absolute;
 	border: 3px solid black;
 	width: min-content;
+	min-width: min-intrinsic;
 	margin:0px;
 	top:-3px;
 	right: -3px;
