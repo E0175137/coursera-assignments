@@ -29,7 +29,7 @@ p{
 	font-size: 125%;
 	position:absolute;
 	border: 3px solid black;
-	width: max-content;
+	width: min-content;
 	margin:0px;
 	top:-3px;
 	right: -3px;
